@@ -1,3 +1,7 @@
+<h1> Welcome! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=261BB9C1&vCenter=true&width=435&lines=Danila+Bykhovoy;IOS+Software+Engineer)](https://git.io/typing-svg)
 
 
