@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=261BB9C1&center=true&vCenter=true&width=435&lines=Danila+Bykhovoy;IOS+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=261BB9C1&vCenter=true&width=435&lines=Danila+Bykhovoy;IOS+Software+Engineer)](https://git.io/typing-svg)
 
 
 #### Connect with me:
