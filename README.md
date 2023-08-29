@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Danila Bykhovoy | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/#26A5E4" />][telegram]
 
-[<img align="left" alt="Danila Bykhovoy | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
+[<img align="left" alt="Danila Bykhovoy | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#0A66C2" />][post]
 
 [linkedin]: https://www.linkedin.com/in/bykhovoy?originalSubdomain=kz
 [telegram]: http://t.me/danilabykhovoy
