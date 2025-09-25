@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Danila Bykhovoy  
+# Danila Bykhovoy  
 
 🚀 **Lead iOS Software Engineer**  
+
 Passionate about building scalable iOS applications, modular architectures, and elegant user experiences.  
 
 ---
